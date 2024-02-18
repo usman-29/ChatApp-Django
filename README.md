@@ -13,7 +13,7 @@ This is a simple chat application built with Django, utilizing Websockets for re
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/your_username/django-chatapp.git
+   git clone https://github.com/username/ChatApp-Django.git
    ```
 
 2. **Navigate into the project directory:**
